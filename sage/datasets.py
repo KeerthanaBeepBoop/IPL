@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-github_data_url = 'https://github.com/iancovert/sage/raw/master/data/'
-github_data_url = 'https://github.com/KeerthanaBeepBoop/IPL/raw/master/data/'
+#github_data_url = 'https://github.com/iancovert/sage/raw/master/data/'
+github_data_url = 'https://github.com/KeerthanaBeepBoop/IPL/raw/main/data/'
 
 
 def airbnb():
